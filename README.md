@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;text=%20%20Hi Everyone%20%20&amp;fontAlign=30&amp;fontSize=30&amp;textBg=true
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;text=%20%20Hi Everyone%20%20&amp;fontAlign=30&amp;fontSize=30&amp;textBg=true">
 
 ###  I'm Yunus ✋ 
 
