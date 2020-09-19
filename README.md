@@ -37,7 +37,7 @@
 <code><img src="https://pydata.org/berlin2018/media/sponsor_files/Anaconda_stacked_RGB.png" width="64"></code>
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: ## Github Stats</summary>
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineercc&layout=compact" />
  <img  src="https://github-readme-stats.vercel.app/api?username=engineercc&show_icons=true&count_private=true&hide=contribs,issue" />
 
