@@ -43,7 +43,7 @@
 
 
 ### Connect with me:
-[<a target="_blank"><img src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png" width="32"></a>][linkedin] 
+[<img src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png" width="32">][linkedin] 
 <a target="_blank"><img src="https://seeklogo.com/images/S/spotify-2015-logo-560E071CB7-seeklogo.com.png" width="32"></a> 
 <a target="_blank"><img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width="32"></a>
 
