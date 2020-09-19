@@ -26,7 +26,9 @@
 <code><img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width="64"></code>
 <code><img src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" width="64"></code>
 <code><img src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" width="64"></code>
+<code><img src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" width="64"></code>
 <code><img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" width="64"></code>
 <code><img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" width="64"></code>
 <code><img src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" width="64"></code>
 <code><img src="https://www.funkyspacemonkey.com/wp-content/uploads/2019/09/barrier-synergy-replacement-FSMdotCOM.png" width="64"></code>
+
