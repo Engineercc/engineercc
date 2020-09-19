@@ -31,4 +31,4 @@
 <code><img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" width="64"></code>
 <code><img src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" width="64"></code>
 <code><img src="https://www.funkyspacemonkey.com/wp-content/uploads/2019/09/barrier-synergy-replacement-FSMdotCOM.png" width="64"></code>
-
+<code><img src="https://pydata.org/berlin2018/media/sponsor_files/Anaconda_stacked_RGB.png" width="64"></code>
