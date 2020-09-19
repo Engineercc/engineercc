@@ -7,4 +7,4 @@
 
 ## Currently working on 🧠
 
-<code><img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" width="32"></code>
+<code><img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" width="64"></code>
