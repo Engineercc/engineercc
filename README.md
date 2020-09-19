@@ -44,13 +44,5 @@
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/yunus-altintop/" target="_blank"><img src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png" width="32"> </a>
-<a target="_blank"><img src="https://seeklogo.com/images/S/spotify-2015-logo-560E071CB7-seeklogo.com.png" width="32"></a> 
-<a target="_blank"><img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width="32"></a>
-
-
-
-
-[website]: https://yunusaltintop.me
-[linkedin]: https://www.linkedin.com/in/yunus-altintop/
-[spotify]: https://open.spotify.com/user/21pfgn6ccik6tc3mptsyoq25q
-[gitlab]: https://gitlab.com/engineercc
+<a href="https://open.spotify.com/user/21pfgn6ccik6tc3mptsyoq25q" target="_blank"><img src="https://seeklogo.com/images/S/spotify-2015-logo-560E071CB7-seeklogo.com.png" width="32"></a> 
+<a href="https://gitlab.com/engineercc" target="_blank"><img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width="32"></a>
