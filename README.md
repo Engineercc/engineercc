@@ -5,7 +5,9 @@
 
 [![Website](https://img.shields.io/badge/yunusaltintop-me-orange)](https://yunusaltintop.me)   
 
-## I'm a Sofware & Web Developer, Music Lover, Gamer !
+### I'm a Sofware & Web Developer 💻
+### Music Lover 🎧 
+### Gamer 🎮
 
 ## Currently working on 🧠
 
