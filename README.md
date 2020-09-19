@@ -34,5 +34,7 @@
 <code><img src="https://www.funkyspacemonkey.com/wp-content/uploads/2019/09/barrier-synergy-replacement-FSMdotCOM.png" width="64"></code>
 <code><img src="https://pydata.org/berlin2018/media/sponsor_files/Anaconda_stacked_RGB.png" width="64"></code>
 
+<details>
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineercc&layout=compact" />
  <img  src="https://github-readme-stats.vercel.app/api?username=engineercc&show_icons=true&count_private=true&hide=contribs,issue" />
+ </details>
