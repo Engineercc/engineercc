@@ -21,4 +21,7 @@
 
 <code><img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="64"></code>
 <code><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="64"></code>
-
+<code><img src="https://seeklogo.com/images/P/PHP-logo-A28168CFD0-seeklogo.com.png" width="64"></code>
+<code><img src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" width="64"></code>
+<code><img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width="64"></code>
+<code><img src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" width="64"></code>
