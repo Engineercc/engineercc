@@ -2,7 +2,7 @@
 
 
 
-###  I'm Yunus.  
+###  I'm Yunus ✋ 
 
 <hr>
 
@@ -44,7 +44,7 @@
 </details>
 
 
-### Connect With Me🔗 
+### Connect With Me: 
 [<img align="left" alt="Linkedin" src="https://seeklogo.com/images/G/globe-logo-42DE548AC7-seeklogo.com.png" width="32">][website]
 [<img align="left" alt="Linkedin" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png" width="32">][linkedin]
 [<img align="left" alt="Spotify" src="https://seeklogo.com/images/S/spotify-2015-logo-560E071CB7-seeklogo.com.png" width="32">][spotify]
