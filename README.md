@@ -2,8 +2,10 @@
 
 
 
-###  I'm Yunus.    
+###  I'm Yunus.  
+
 <hr>
+
 #### I'm a Sofware & Web Developer 💻
 #### Music Lover 🎧 
 #### Gamer 🎮
