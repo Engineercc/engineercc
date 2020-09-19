@@ -38,7 +38,7 @@
 
 <details>
   <summary>:zap: <strong>Github Stats</strong></summary>
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineercc&theme=tokyonight&layout=compact" /><br>
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineercc&theme=radical&layout=compact" /><br>
  <img  src="https://github-readme-stats.vercel.app/api?username=engineercc&theme=tokyonight&show_icons=true&count_private=true&hide=contribs,issue" />
 
 </details>
