@@ -43,10 +43,12 @@
 
 
 ### Connect With Me🔗 
-<img align="left" alt="Linkedin" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png" width="32">
-<img align="left" alt="Spotify" src="https://seeklogo.com/images/S/spotify-2015-logo-560E071CB7-seeklogo.com.png" width="32">
-<img align="left" alt="Gitlab" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width="32">
+[<img align="left" alt="Linkedin" src="https://seeklogo.com/images/G/globe-logo-42DE548AC7-seeklogo.com.png" width="32">][website]
+[<img align="left" alt="Linkedin" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png" width="32">][linkedin]
+<img align="left" alt="Spotify" src="https://seeklogo.com/images/S/spotify-2015-logo-560E071CB7-seeklogo.com.png" width="32">[spotify]
+<img align="left" alt="Gitlab" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width="32">[gitlab]
 
+[website]: https://yunusaltintop.me
 [linkedin]: https://www.linkedin.com/in/yunus-altintop/
 [spotify]: https://open.spotify.com/user/21pfgn6ccik6tc3mptsyoq25q
 [gitlab]: https://gitlab.com/engineercc
