@@ -43,4 +43,4 @@
 
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/yunus-altintop/" target="_blank"><img src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"></a>
+<a href="https://www.linkedin.com/in/yunus-altintop/" target="_blank"><img src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png" width="32"></a>
