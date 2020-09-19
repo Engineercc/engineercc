@@ -8,3 +8,4 @@
 ## Currently working on 🧠
 
 <code><img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" width="64"></code>
+<code><img src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png" width="64" style="border-radius: 50%;"></code>
