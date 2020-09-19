@@ -6,6 +6,7 @@
 #### I'm a Sofware & Web Developer 💻
 #### Music Lover 🎧 
 #### Gamer 🎮
+<hr>
 
 
 
