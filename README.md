@@ -53,7 +53,7 @@
 [<img align="left" alt="Gitlab" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width="32">][gitlab]
 
 
-[website]: https://yunusaltintop.me
+[website]: https://yunusaltintop.com
 [linkedin]: https://www.linkedin.com/in/yunus-altintop/
 [spotify]: https://open.spotify.com/user/21pfgn6ccik6tc3mptsyoq25q
 [gitlab]: https://gitlab.com/engineercc
