@@ -56,4 +56,5 @@
 [spotify]: https://open.spotify.com/user/21pfgn6ccik6tc3mptsyoq25q
 [gitlab]: https://gitlab.com/engineercc
 
-![](https://komarev.com/ghpvc/?username=engineercc)
+### Profile Views:
+<code>![](https://komarev.com/ghpvc/?username=engineercc)</code>
