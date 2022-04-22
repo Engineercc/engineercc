@@ -59,5 +59,5 @@
 
 
 ### <br/>                                                   
-![](https://komarev.com/ghpvc/?username=engineercc&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=engineercc&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
