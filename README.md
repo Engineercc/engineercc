@@ -34,7 +34,7 @@
 <code><img src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" width="64"></code>
 <code><img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" width="64"></code>
 <code><img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" width="64"></code>
-<code><img src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" width="64"></code>
+
 
 
 <hr>
