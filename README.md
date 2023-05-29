@@ -16,10 +16,10 @@
 ##  Working on 🧠
 
 <code><img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="64"></code>
-<code><img src="https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png" width="64"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="64"></code>
-<code><img src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" width="64"></code>
+<code><img src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" width="64"></code>
 <code><img src="https://camo.githubusercontent.com/bcd4bda49ef6cd9537db065920f4f4f6ac670eae0e0adf2c5133c19b319f1574/68747470733a2f2f627261646c632e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f627261646c632f7673636f64652d7461696c77696e646373732f302e322e302f313535383034303536333634392f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74" width="64"></code>
+
 
 
 
