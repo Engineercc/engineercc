@@ -12,28 +12,16 @@
 
 
 
-
 ##  Working on 🧠
-
-<code><img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="64"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="64"></code>
-<code><img src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" width="64"></code>
+<code><img src="https://images.seeklogo.com/logo-png/28/1/angular-icon-logo-png_seeklogo-284427.png" width="64"></code>
+<code><img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png" width="64"></code>
 
 
 
 
-## Languages and Tools 🛠️
-
-<code><img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="64"></code>
-<code><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="64"></code>
-<code><img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width="64"></code>
-<code><img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" width="64"></code>
-<code><img src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" width="64"></code>
-<code><img src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" width="64"></code>
-<code><img src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" width="64"></code>
-<code><img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" width="64"></code>
-<code><img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" width="64"></code>
-
+## Tools 🛠️
+<code><img src="https://images.seeklogo.com/logo-png/28/1/webstorm-logo-png_seeklogo-284394.png" width="64"></code>
+<code><img src="https://images.seeklogo.com/logo-png/28/1/intellij-idea-logo-png_seeklogo-284399.png" width="64"></code>
 
 
 <hr>
