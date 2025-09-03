@@ -13,15 +13,12 @@
 
 
 ##  Working on 🧠
-<code><img src="https://images.seeklogo.com/logo-png/28/1/angular-icon-logo-png_seeklogo-284427.png" width="64"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png?20160527092314" width="64"></code>
 <code><img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png" width="64"></code>
 
-
-
-
 ## Tools 🛠️
-<code><img src="https://images.seeklogo.com/logo-png/28/1/webstorm-logo-png_seeklogo-284394.png" width="64"></code>
-<code><img src="https://images.seeklogo.com/logo-png/28/1/intellij-idea-logo-png_seeklogo-284399.png" width="64"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" width="64"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png?20200803071016" width="64"></code>
 
 
 <hr>
@@ -32,15 +29,6 @@
 
 </details>
 
-
-### Connect With Me: 
-[<img align="left" alt="Website" src="https://seeklogo.com/images/G/globe-logo-42DE548AC7-seeklogo.com.png" width="32">][website]
-[<img align="left" alt="Linkedin" src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" width="32">][linkedin]
-[<img align="left" alt="Spotify" src="https://seeklogo.com/images/S/spotify-2015-logo-560E071CB7-seeklogo.com.png" width="32">][spotify]
-[<img align="left" alt="Gitlab" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width="32">][gitlab]
-
-
-[website]: https://yunusaltintop.com
 [linkedin]: https://www.linkedin.com/in/yunus-altintop/
 [spotify]: https://open.spotify.com/user/21pfgn6ccik6tc3mptsyoq25q
 [gitlab]: https://gitlab.com/engineercc
