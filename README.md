@@ -13,7 +13,7 @@
 
 
 ##  Working on 🧠
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png?20160527092314" width="64"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Angular-logo.png" width="64"></code>
 <code><img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png" width="64"></code>
 
 ## Tools 🛠️
