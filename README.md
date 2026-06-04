@@ -17,7 +17,7 @@
 <code><img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png" width="64"></code>
 
 ## Tools 🛠️
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" width="64"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1280px-WebStorm_Icon.svg.png" width="64"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png?20200803071016" width="64"></code>
 
 
