@@ -18,7 +18,7 @@
 
 ## Tools 🛠️
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1280px-WebStorm_Icon.svg.png" width="64"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png?20200803071016" width="64"></code>
+<code><img src="https://img.icons8.com/color/1200/intellij-idea.jpg" width="64"></code>
 
 
 <hr>
